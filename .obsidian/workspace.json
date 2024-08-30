@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1ca1bdde3e34e8",
+        "id": "c1eb3ff2208417d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a2396594d0eb6175",
+            "id": "fd56c81c93ee84b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "retos-brandit/Bandit Level 8 → Level 9.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240829211919.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-brandit/Bandit Level 8 → Level 9.md",
+                "file": "Pasted image 20240829211919.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-brandit/Bandit Level 8 → Level 9.md",
+                "file": "Pasted image 20240829211919.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-brandit/Bandit Level 8 → Level 9.md"
+                "file": "Pasted image 20240829211919.png"
               }
             }
           }
@@ -146,11 +144,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2396594d0eb6175",
+  "active": "fd56c81c93ee84b7",
   "lastOpenFiles": [
-    "retos-brandit/Bandit Level 9 → Level 10.md",
+    "Pasted image 20240829211745.png",
+    "retos-brandit/Bandit Level 10 → Level 11.md",
+    "retos-brandit/Bandit Level 12→ Level 13.md",
+    "retos-brandit/Bandit Level 13→ Level 14.md",
+    "Pasted image 20240829211919.png",
+    "Pasted image 20240829211402.png",
+    "retos-brandit/Bandit Level 14→ Level 15.md",
+    "retos-brandit/Bandit Level 11→ Level 12.md",
+    "retos-brandit/Bandit Level 15→ Level 16.md",
     "retos-brandit/Bandit Level 8 → Level 9.md",
     "retos-brandit/plantilla.md",
+    "retos-brandit/Bandit Level 9 → Level 10.md",
     "retos-brandit/Bandit Level 7 → Level 8.md",
     "retos-brandit/Bandit Level 6 → Level 7.md",
     "retos-brandit/Bandit Level 5 → Level 6.md",
