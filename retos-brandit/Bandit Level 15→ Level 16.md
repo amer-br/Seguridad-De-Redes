@@ -153,4 +153,8 @@ closed
 **`openssl s_client`**: Inicia una herramienta cliente de OpenSSL que permite establecer conexiones SSL/TLS a un servidor, simulando el comportamiento de un cliente SSL/TLS.
 **`-connect localhost:30001`**: Especifica el destino de la conexión. En este caso, se conecta a `localhost` en el puerto `30001` usando SSL/TLS. Puedes sustituir `localhost` por cualquier otro nombre de host o dirección IP.
 **`-ign_eof`**: Esta opción le dice a `openssl s_client` que ignore la señal EOF (End of File) de la entrada estándar (stdin). Esto significa que aunque se envíe una señal EOF, la sesión seguirá activa hasta que el servidor cierre la conexión o se cierre manualmente.
+
+**ssl/tls** - es un protocolo de ocmunicación generalmente usado en sitios web(https)
+**ncat** - es una herramienta similar a netacat pero con otras ventajas como conectar a puertos ssl
+
 ## Referencias
