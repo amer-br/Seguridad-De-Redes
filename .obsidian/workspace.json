@@ -8,103 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd56c81c93ee84b7",
+            "id": "4e60cecd62fed39d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 15→ Level 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d81c6573c36e8308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 16→ Level 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c84f42bcd8e8569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 17→ Level 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0330db3b0af61189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 18→ Level 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "597a5d3edd214f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 19→ Level 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e6d17c97d4568e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 20→ Level 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f81ffb97cabbc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 21→ Level 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d5451f3dfca2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-brandit/Bandit Level 21→ Level 22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-brandit/Bandit Level 21→ Level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-brandit/Bandit Level 21→ Level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos-brandit/Bandit Level 21→ Level 22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,17 +138,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20d5451f3dfca2e5",
+  "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
+    "retos-brandit/Bandit Level 25→ Level 26.md",
+    "retos-brandit/Bandit Level 26→ Level 27.md",
+    "retos-brandit/Bandit Level 27→ Level 28.md",
+    "retos-brandit/Bandit Level 24→ Level 25.md",
+    "retos-brandit/Bandit Level 23→ Level 24.md",
+    "retos-brandit/Bandit Level 22→ Level 23.md",
+    "retos-brandit/Bandit Level 0 → Level 1.md",
+    "retos-brandit/Bandit Level 21→ Level 22.md",
+    "retos-brandit/plantilla.md",
     "retos-brandit/Bandit Level 20→ Level 21.md",
     "retos-brandit/Bandit Level 19→ Level 20.md",
     "retos-brandit/Bandit Level 18→ Level 19.md",
     "retos-brandit/Bandit Level 17→ Level 18.md",
     "retos-brandit/Bandit Level 16→ Level 17.md",
-    "retos-brandit/Bandit Level 21→ Level 22.md",
-    "retos-brandit/Bandit Level 22→ Level 23.md",
     "retos-brandit/Bandit Level 15→ Level 16.md",
-    "retos-brandit/plantilla.md",
     "retos-brandit/Bandit Level 13→ Level 14.md",
     "retos-brandit/Bandit Level 14→ Level 15.md",
     "retos-brandit/Bandit Level 09 → Level 10.md",
@@ -253,15 +166,9 @@
     "retos-brandit/Bandit Level 03 → Level 4.md",
     "retos-brandit/Bandit Level 02 → Level 3.md",
     "retos-brandit/Bandit Level 01 → Level 2.md",
-    "retos-brandit/Bandit Level 0 → Level 1.md",
     "Pasted image 20240829211919.png",
     "Pasted image 20240829211745.png",
-    "retos-brandit/Bandit Level 10 → Level 11.md",
-    "retos-brandit/Bandit Level 12→ Level 13.md",
     "Pasted image 20240829211402.png",
-    "retos-brandit/Bandit Level 11→ Level 12.md",
-    "retos-brandit/Level 0.md",
-    "README.md",
     "retos-brandit"
   ]
 }
