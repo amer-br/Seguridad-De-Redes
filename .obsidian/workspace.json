@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "c1eb3ff2208417d1",
+        "id": "39271db054c79770",
         "type": "tabs",
         "children": [
           {
-            "id": "4e60cecd62fed39d",
+            "id": "72589b8467c73553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-brandit/Bandit Level 27→ Level 28.md",
+                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a611c2b6886b4c54",
+            "id": "5ee7405aeb3aaf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-brandit/Bandit Level 32→ Level 33.md",
+                "file": "picoCTF/Parcial 01 - Parte 4/Permissions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1055258c18a8bbdb",
+            "id": "b4792e271d944138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-brandit/Bandit Level 33→ Level 34.md",
+                "file": "picoCTF/Parcial 01 - Parte 4/PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0183d3bcccef9d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Parcial 01 - Parte 4/Useless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b6489352480903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Parcial 01 - Parte 4/Special.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df095abfb2ef013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-brandit/Bandit Level 33→ Level 34.md",
+                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-brandit/Bandit Level 33→ Level 34.md",
+                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-brandit/Bandit Level 33→ Level 34.md"
+                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md"
               }
             }
           }
@@ -171,37 +207,47 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e36f070a1ed6c249",
+  "active": "1df095abfb2ef013",
   "lastOpenFiles": [
-    "retos-brandit/Bandit Level 32→ Level 33.md",
-    "retos-brandit/Bandit Level 33→ Level 34.md",
-    "retos-brandit/Bandit Level 31→ Level 32.md",
-    "retos-brandit/Bandit Level 30→ Level 31.md",
-    "retos-brandit/Bandit Level 29→ Level 30.md",
-    "retos-brandit/Bandit Level 28→ Level 29.md",
-    "retos-brandit/Bandit Level 27→ Level 28.md",
-    "README.md",
-    "Sin título.md",
-    "retos-brandit/plantilla.md",
-    "retos-brandit/Bandit Level 25→ Level 26.md",
-    "retos-brandit/Bandit Level 26→ Level 27.md",
-    "retos-brandit/Bandit Level 24→ Level 25.md",
-    "retos-brandit/Bandit Level 23→ Level 24.md",
-    "retos-brandit/Bandit Level 22→ Level 23.md",
-    "retos-brandit/Bandit Level 0 → Level 1.md",
-    "retos-brandit/Bandit Level 21→ Level 22.md",
-    "retos-brandit/Bandit Level 20→ Level 21.md",
-    "retos-brandit/Bandit Level 19→ Level 20.md",
-    "retos-brandit/Bandit Level 18→ Level 19.md",
-    "retos-brandit/Bandit Level 17→ Level 18.md",
-    "retos-brandit/Bandit Level 16→ Level 17.md",
-    "retos-brandit/Bandit Level 15→ Level 16.md",
-    "retos-brandit/Bandit Level 13→ Level 14.md",
-    "retos-brandit/Bandit Level 14→ Level 15.md",
-    "retos-brandit/Bandit Level 09 → Level 10.md",
-    "Pasted image 20240829211919.png",
-    "Pasted image 20240829211745.png",
-    "Pasted image 20240829211402.png",
+    "picoCTF/Parcial 01 - Parte 4/PW Crack 3.md",
+    "picoCTF/Parcial 01 - Parte 4/Serpentine.md",
+    "picoCTF/Parcial 01 - Parte 4/Useless.md",
+    "picoCTF/Parcial 01 - Parte 4/plumbing.md",
+    "picoCTF/Parcial 01 - Parte 4/Permissions.md",
+    "picoCTF/Parcial 01 - Parte 4/Special.md",
+    "picoCTF/Parcial 01 - Parte 4/Lets Warm Up.md",
+    "picoCTF/Parcial 01 - Parte 4/ASCII Numbers.md",
+    "Imagenes/Pasted image 20240914013408.png",
+    "picoCTF/Parcial 01 - Parte 4/Based.md",
+    "Imagenes/Pasted image 20240913141653.png",
+    "picoCTF/plantilla.md",
+    "picoCTF/Parcial 01 - Parte 4/chrono.md",
+    "picoCTF/Parcial 01 - Parte 1/binhexa.md",
+    "picoCTF/Parcial 01 - Parte 1/repetitions.md",
+    "picoCTF/Parcial 01 - Parte 1/Collaborative Development.md",
+    "picoCTF/Parcial 01 - Parte 3/Static ain't always noise.md",
+    "picoCTF/Parcial 01 - Parte 3/Wave a flag.md",
+    "picoCTF/Parcial 01 - Parte 2/Magikarp Ground Mission.md",
+    "picoCTF/Parcial 01 - Parte 1/Commitment Issues.md",
+    "picoCTF/Parcial 01 - Parte 1/Blame Game.md",
+    "picoCTF/Parcial 01 - Parte 1/Time Machine.md",
+    "picoCTF/Parcial 01 - Parte 1/Super SSH.md",
+    "picoCTF/Parcial 01 - Parte 2/Tab, Tab, Attack.md",
+    "picoCTF/Parcial 01 - Parte 3/Nice netcat....md",
+    "picoCTF/Parcial 01 - Parte 1/Binary Search.md",
+    "picoCTF/Parcial 01 - Parte 2/PW Crack 2.md",
+    "Imagenes/Pasted image 20240829211919.png",
+    "Imagenes/Pasted image 20240909120003.png",
+    "Imagenes/Pasted image 20240909123833.png",
+    "Imagenes/Pasted image 20240909124329.png",
+    "picoCTF/Parcial 01 - Parte 4",
+    "Imagenes",
+    "picoCTF/Parcial 01 - Parte 3",
+    "picoCTF/Parcial 01 - Parte 2",
+    "picoCTF/Parcial 01 - Parte 1",
+    "picoCTF",
+    "Imagenes/Pasted image 20240829211745.png",
+    "Imagenes/Pasted image 20240829211402.png",
     "retos-brandit"
   ]
 }
