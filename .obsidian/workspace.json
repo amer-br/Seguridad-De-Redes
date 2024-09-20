@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/chrono.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/Permissions.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/PW Crack 3.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/PW Crack 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/Useless.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Useless.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/Special.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Special.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
+                "file": "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Super SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94683de08b915fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/Insp3ct0r.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d6dc06c29d746a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c366340fa4e29eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/logon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "092024c7fdbe1042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1b412b5b1a6b3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c52dcbec867e9667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos web/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -146,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
+                "file": "Retos web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md",
+                "file": "Retos web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Parcial 01 - Parte 4/chrono.md"
+                "file": "Retos web/Client-side-again.md"
               }
             }
           }
@@ -207,47 +279,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1df095abfb2ef013",
+  "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
-    "picoCTF/Parcial 01 - Parte 4/PW Crack 3.md",
-    "picoCTF/Parcial 01 - Parte 4/Serpentine.md",
-    "picoCTF/Parcial 01 - Parte 4/Useless.md",
-    "picoCTF/Parcial 01 - Parte 4/plumbing.md",
-    "picoCTF/Parcial 01 - Parte 4/Permissions.md",
-    "picoCTF/Parcial 01 - Parte 4/Special.md",
-    "picoCTF/Parcial 01 - Parte 4/Lets Warm Up.md",
-    "picoCTF/Parcial 01 - Parte 4/ASCII Numbers.md",
-    "Imagenes/Pasted image 20240914013408.png",
-    "picoCTF/Parcial 01 - Parte 4/Based.md",
-    "Imagenes/Pasted image 20240913141653.png",
+    "Imagenes/Pasted image 20240920002342.png",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/chrono.md",
+    "Retos web/where are the robots.md",
+    "Retos web/picobrowser.md",
+    "Retos web/logon.md",
+    "Retos web/Client-side-again.md",
+    "Imagenes/Pasted image 20240920000535.png",
+    "Retos web/Insp3ct0r.md",
+    "Retos web/dont-use-client-side.md",
+    "Imagenes/Pasted image 20240919235416.png",
+    "Retos web",
+    "Imagenes/Pasted image 20240919235228.png",
     "picoCTF/plantilla.md",
-    "picoCTF/Parcial 01 - Parte 4/chrono.md",
-    "picoCTF/Parcial 01 - Parte 1/binhexa.md",
-    "picoCTF/Parcial 01 - Parte 1/repetitions.md",
-    "picoCTF/Parcial 01 - Parte 1/Collaborative Development.md",
-    "picoCTF/Parcial 01 - Parte 3/Static ain't always noise.md",
-    "picoCTF/Parcial 01 - Parte 3/Wave a flag.md",
-    "picoCTF/Parcial 01 - Parte 2/Magikarp Ground Mission.md",
-    "picoCTF/Parcial 01 - Parte 1/Commitment Issues.md",
-    "picoCTF/Parcial 01 - Parte 1/Blame Game.md",
-    "picoCTF/Parcial 01 - Parte 1/Time Machine.md",
-    "picoCTF/Parcial 01 - Parte 1/Super SSH.md",
-    "picoCTF/Parcial 01 - Parte 2/Tab, Tab, Attack.md",
-    "picoCTF/Parcial 01 - Parte 3/Nice netcat....md",
-    "picoCTF/Parcial 01 - Parte 1/Binary Search.md",
-    "picoCTF/Parcial 01 - Parte 2/PW Crack 2.md",
+    "picoCTF/Examen Parcial 1",
+    "Examen Parcial 1.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Super SSH.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/repetitions.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/First Find.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Commitment Issues.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Collaborative Development.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Blame Game.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/binhexa.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Binary Search.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Big Zip.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/PW Crack 3.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Serpentine.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Useless.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/plumbing.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Permissions.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Special.md",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/Lets Warm Up.md",
+    "Imagenes/Pasted image 20240914013408.png",
+    "Imagenes/Pasted image 20240913141653.png",
     "Imagenes/Pasted image 20240829211919.png",
     "Imagenes/Pasted image 20240909120003.png",
     "Imagenes/Pasted image 20240909123833.png",
     "Imagenes/Pasted image 20240909124329.png",
-    "picoCTF/Parcial 01 - Parte 4",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4",
     "Imagenes",
-    "picoCTF/Parcial 01 - Parte 3",
-    "picoCTF/Parcial 01 - Parte 2",
-    "picoCTF/Parcial 01 - Parte 1",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 3",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 2",
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1",
     "picoCTF",
     "Imagenes/Pasted image 20240829211745.png",
-    "Imagenes/Pasted image 20240829211402.png",
     "retos-brandit"
   ]
 }
