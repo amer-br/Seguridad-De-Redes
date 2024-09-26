@@ -15,3 +15,4 @@ Content-type: text/html; charset=UTF-8
 ![[Pasted image 20240925103120.png]]
 ## Notas adicionales
 ## Referencias
+[Métodos de solicitud HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)

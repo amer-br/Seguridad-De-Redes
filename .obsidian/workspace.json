@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "39271db054c79770",
+        "id": "8e2ac4faa4a29ead",
         "type": "tabs",
         "children": [
           {
-            "id": "1e96c6ad830a4b6f",
+            "id": "269399230d191f91",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20240925194851.png"
+                "file": "picoCTF/Retos web 3/GET aHEAD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Pasted image 20240925194851.png",
+                "file": "picoCTF/Retos web 3/GET aHEAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Pasted image 20240925194851.png",
+                "file": "picoCTF/Retos web 3/GET aHEAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Pasted image 20240925194851.png"
+                "file": "picoCTF/Retos web 3/GET aHEAD.md"
               }
             }
           }
@@ -146,6 +148,16 @@
   },
   "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
+    "picoCTF/Retos web 3/Cookie.md",
+    "EVIDENCIA KALI LINUX.pdf",
+    "picoCTF/Retos web 3/Scavenger Hunt.md",
+    "Imagenes/Pasted image 20240926084520.png",
+    "Imagenes/Pasted image 20240926084310.png",
+    "Imagenes/Pasted image 20240926084111.png",
+    "Imagenes/Pasted image 20240926084005.png",
+    "Imagenes/Pasted image 20240926083911.png",
+    "picoCTF/Retos web 3/GET aHEAD.md",
+    "Imagenes/Pasted image 20240925194851.png",
     "picoCTF/Retos web 2/JaWT Scratchpad.md",
     "picoCTF/Retos web 3",
     "Imagenes/Pasted image 20240926002056.png",
@@ -153,17 +165,9 @@
     "Imagenes/Pasted image 20240925204559.png",
     "Imagenes/Pasted image 20240925204526.png",
     "picoCTF/Retos web 2/Irish-Name-Repo 3.md",
-    "Imagenes/Pasted image 20240925203200.png",
-    "Imagenes/Pasted image 20240925203117.png",
-    "Imagenes/Pasted image 20240925202710.png",
     "picoCTF/Retos web 2/Irish-Name-Repo 2.md",
     "picoCTF/Retos web 2/Irish-Name-Repo 1.md",
-    "Imagenes/Pasted image 20240925200332.png",
-    "Imagenes/Pasted image 20240925200113.png",
-    "Imagenes/Pasted image 20240925195201.png",
     "picoCTF/Retos web 2",
-    "picoCTF/Retos web 3/Cookie.md",
-    "picoCTF/Retos web 3/GET aHEAD.md",
     "picoCTF/plantilla.md",
     "picoCTF/Retos web 1/where are the robots.md",
     "picoCTF/Retos web 1/picobrowser.md",
@@ -184,12 +188,10 @@
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/binhexa.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Binary Search.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Big Zip.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/PW Crack 3.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4",
     "Imagenes",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 3",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 2",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1",
-    "picoCTF"
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1"
   ]
 }
