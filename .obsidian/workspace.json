@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2ac4faa4a29ead",
+        "id": "fa7b6da6374f2871",
         "type": "tabs",
         "children": [
           {
-            "id": "269399230d191f91",
+            "id": "4035b2b2ee39cc14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos web 3/GET aHEAD.md",
+                "file": "picoCTF/Retos web 4/Most Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos web 3/GET aHEAD.md",
+                "file": "picoCTF/Retos web 4/Most Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos web 3/GET aHEAD.md",
+                "file": "picoCTF/Retos web 4/Most Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos web 3/GET aHEAD.md"
+                "file": "picoCTF/Retos web 4/Most Cookies.md"
               }
             }
           }
@@ -148,27 +148,33 @@
   },
   "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
-    "picoCTF/Retos web 3/Cookie.md",
+    "Imagenes/Pasted image 20240930184324.png",
+    "picoCTF/Retos web 4/Most Cookies.md",
+    "picoCTF/Retos web 4/Trickster.md",
+    "Imagenes/Pasted image 20240930202109.png",
+    "picoCTF/Retos web 4/SOAP.md",
+    "Imagenes/Pasted image 20240930192434.png",
+    "picoCTF/Retos web 4/MatchTheRegex.md",
+    "picoCTF/plantilla.md",
     "EVIDENCIA KALI LINUX.pdf",
+    "Imagenes/Pasted image 20240930184352.png",
+    "Sin título.md",
+    "picoCTF/Retos web 3/GET aHEAD.md",
+    "picoCTF/Retos web 4",
+    "picoCTF/Retos web 3/Cookie.md",
     "picoCTF/Retos web 3/Scavenger Hunt.md",
     "Imagenes/Pasted image 20240926084520.png",
     "Imagenes/Pasted image 20240926084310.png",
     "Imagenes/Pasted image 20240926084111.png",
     "Imagenes/Pasted image 20240926084005.png",
     "Imagenes/Pasted image 20240926083911.png",
-    "picoCTF/Retos web 3/GET aHEAD.md",
     "Imagenes/Pasted image 20240925194851.png",
     "picoCTF/Retos web 2/JaWT Scratchpad.md",
     "picoCTF/Retos web 3",
-    "Imagenes/Pasted image 20240926002056.png",
-    "Imagenes/Pasted image 20240925204653.png",
-    "Imagenes/Pasted image 20240925204559.png",
-    "Imagenes/Pasted image 20240925204526.png",
     "picoCTF/Retos web 2/Irish-Name-Repo 3.md",
     "picoCTF/Retos web 2/Irish-Name-Repo 2.md",
     "picoCTF/Retos web 2/Irish-Name-Repo 1.md",
     "picoCTF/Retos web 2",
-    "picoCTF/plantilla.md",
     "picoCTF/Retos web 1/where are the robots.md",
     "picoCTF/Retos web 1/picobrowser.md",
     "picoCTF/Retos web 1/dont-use-client-side.md",
@@ -183,15 +189,9 @@
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/repetitions.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/First Find.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Commitment Issues.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Collaborative Development.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Blame Game.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/binhexa.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Binary Search.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Big Zip.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4",
     "Imagenes",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 3",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 2",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1"
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 2"
   ]
 }
