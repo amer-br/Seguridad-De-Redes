@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos web 4/Most Cookies.md",
+                "file": "picoCTF/Retos Forensic 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos web 4/Most Cookies.md",
+                "file": "picoCTF/Retos Forensic 1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos web 4/Most Cookies.md",
+                "file": "picoCTF/Retos Forensic 1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos web 4/Most Cookies.md"
+                "file": "picoCTF/Retos Forensic 1/What Lies Within.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
-    "Imagenes/Pasted image 20240930184324.png",
+    "Pasted image 20241002111442.png",
+    "picoCTF/Retos Forensic 1/So Meta.md",
+    "picoCTF/Retos Forensic 1/shark on wire 1.md",
+    "picoCTF/Retos Forensic 1/Glory of the Garden.md",
+    "picoCTF/Retos Forensic 1/extensions.md",
+    "Pasted image 20241002110445.png",
+    "Pasted image 20241002105625.png",
+    "picoCTF/Retos Forensic 1/What Lies Within.md",
     "picoCTF/Retos web 4/Most Cookies.md",
+    "picoCTF/Retos Forensic 1",
+    "Imagenes/Pasted image 20240930184324.png",
     "picoCTF/Retos web 4/Trickster.md",
     "Imagenes/Pasted image 20240930202109.png",
     "picoCTF/Retos web 4/SOAP.md",
@@ -167,8 +176,6 @@
     "Imagenes/Pasted image 20240926084310.png",
     "Imagenes/Pasted image 20240926084111.png",
     "Imagenes/Pasted image 20240926084005.png",
-    "Imagenes/Pasted image 20240926083911.png",
-    "Imagenes/Pasted image 20240925194851.png",
     "picoCTF/Retos web 2/JaWT Scratchpad.md",
     "picoCTF/Retos web 3",
     "picoCTF/Retos web 2/Irish-Name-Repo 3.md",
@@ -184,14 +191,8 @@
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4/chrono.md",
     "picoCTF/Retos web 1",
     "picoCTF/Examen Parcial 1",
-    "Examen Parcial 1.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Super SSH.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/repetitions.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/First Find.md",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 1/Commitment Issues.md",
     "picoCTF/Examen Parcial 1/Parcial 01 - Parte 4",
     "Imagenes",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 3",
-    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 2"
+    "picoCTF/Examen Parcial 1/Parcial 01 - Parte 3"
   ]
 }
