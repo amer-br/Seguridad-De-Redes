@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic/Parte 4/Milkslap.md",
+                "file": "picoCTF/Retos crypto/Parte 1/The numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic/Parte 4/Milkslap.md",
+                "file": "picoCTF/Retos crypto/Parte 1/The numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic/Parte 4/Milkslap.md",
+                "file": "picoCTF/Retos crypto/Parte 1/The numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic/Parte 4/Milkslap.md"
+                "file": "picoCTF/Retos crypto/Parte 1/The numbers.md"
               }
             }
           }
@@ -146,16 +146,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c0dc14cf1320af0",
+  "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
-    "Sin título.md",
+    "picoCTF/Retos crypto/Parte 1/waves over lambda.md",
+    "picoCTF/Retos crypto/Parte 1/The numbers.md",
+    "Imagenes/Pasted image 20241016104545.png",
+    "Imagenes/Pasted image 20241016112631.png",
+    "picoCTF/Retos crypto/Parte 1/Tapping.md",
+    "Imagenes/Pasted image 20241016111553.png",
+    "picoCTF/Retos crypto/Parte 1/la cifra de.md",
+    "Imagenes/Pasted image 20241016110816.png",
+    "picoCTF/Retos crypto/Parte 1/caesar.md",
+    "picoCTF/Retos crypto/Parte 1",
+    "Imagenes/Pasted image 20241016105919.png",
+    "picoCTF/Retos crypto/Parte 1/13.md",
+    "picoCTF/Retos crypto",
+    "Imagenes/Pasted image 20241016105211.png",
+    "picoCTF/Retos crypto/Parte 1/Easy1.md",
     "picoCTF/Retos Forensic/Parte 4/Milkslap.md",
+    "Sin título.md",
     "Pasted image 20241015132422.png",
     "Pasted image 20241015125046.png",
     "picoCTF/Retos Forensic/Parte 4/Operation Oni.md",
     "picoCTF/fancy cipher.md",
     "picoCTF/Thermal camera.md",
-    "Sin nombre",
     "Sin título.canvas",
     "picoCTF/Retos Forensic/Parte 4/Operation Orchid.md",
     "picoCTF/plantilla.md",
@@ -172,27 +186,14 @@
     "picoCTF/Retos Forensic/Parte 3/Matryoshka doll.md",
     "picoCTF/Retos Forensic/Parte 2/shark on wire 2.md",
     "picoCTF/Retos Forensic/Parte 3",
-    "Imagenes/Pasted image 20241007115821.png",
     "picoCTF/Retos Forensic/Parte 2/WhitePages.md",
-    "Imagenes/Pasted image 20241007105025.png",
-    "Imagenes/Pasted image 20241007104856.png",
     "picoCTF/Retos Forensic/Parte 2/c0rrupt.md",
     "picoCTF/Retos Forensic/Parte 2/like1000.md",
-    "picoCTF/Retos Forensic/Parte 2/m00nwalk.md",
-    "Imagenes/Pasted image 20241005201534.png",
-    "Imagenes/Pasted image 20241005195619.png",
-    "Imagenes/Pasted image 20241005185414.png",
-    "picoCTF/Retos Forensic/Parte 1/What Lies Within.md",
     "picoCTF/Retos Forensic",
     "picoCTF/Retos web",
     "picoCTF/Retos Forensic/Parte 2",
-    "picoCTF/Retos Forensic/Parte 1/So Meta.md",
-    "picoCTF/Retos Forensic/Parte 1/shark on wire 1.md",
-    "picoCTF/Retos Forensic/Parte 1/Glory of the Garden.md",
-    "picoCTF/Retos Forensic/Parte 1/extensions.md",
     "picoCTF/Retos Forensic/Parte 1",
     "EVIDENCIA KALI LINUX.pdf",
-    "picoCTF/Retos web/Retos web 4",
-    "picoCTF/Retos web/Retos web 3"
+    "picoCTF/Retos web/Retos web 4"
   ]
 }
