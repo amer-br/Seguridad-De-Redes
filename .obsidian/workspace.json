@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Pitter, Patter, Platters.md",
+                "file": "picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitter, Patter, Platters"
+              "title": "vault-door-training"
             }
           }
         ]
@@ -162,8 +162,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c0dc14cf1320af0",
+  "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20241029170459.png",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
+    "Imagenes/Pasted image 20241028111612.png",
+    "picoCTF/Retos Reversing/Parte 1",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-5.md",
+    "Imagenes/Pasted image 20241028113711.png",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-4.md",
+    "Imagenes/Pasted image 20241028112857.png",
+    "Imagenes/Pasted image 20241028112824.png",
+    "Imagenes/Pasted image 20241028112613.png",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-3.md",
+    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Pitter, Patter, Platters.md",
+    "picoCTF/Retos Reversing",
     "Imagenes/Pasted image 20241026163021.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/Who are you.md",
     "Imagenes/Pasted image 20241026175059.png",
@@ -172,21 +186,15 @@
     "Imagenes/Pasted image 20241026172814.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/login.md",
     "Imagenes/Pasted image 20241026172432.png",
-    "Imagenes/Pasted image 20241026172341.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/Java Code Analysis.md",
-    "Imagenes/Pasted image 20241026171435.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/It is my Birthday.md",
-    "Imagenes/Pasted image 20241026165115.png",
     "picoCTF/plantilla.md",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/caas.md",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/Unminify.md",
-    "Imagenes/Pasted image 20241026163325.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/IntroToBurp.md",
-    "Imagenes/Pasted image 20241026140406.png",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Wireshark twoo twooo two twoo....md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/St3g0.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Redaction gone wrong.md",
-    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Pitter, Patter, Platters.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Lookey here.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Disk, disk, sleuth! II.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/advanced-potion-making.md",
@@ -195,11 +203,6 @@
     "picoCTF/Examen Parcial 2/Parte 3 - Forensic/PcapPoisoning.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic",
     "picoCTF/Examen Parcial 2/Parte 3 - Forensic/Packets Primer.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/MSB.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/FindAndOpen.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/Enhance!.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/Eavesdrop.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/information.md",
     "picoCTF/Examen Parcial 2/Parte 3 - Forensic",
     "picoCTF/Examen Parcial 2/Parte 2 - Web",
     "picoCTF/Examen Parcial 2/Parte 1 - Web",
@@ -207,8 +210,6 @@
     "picoCTF/Retos crypto/Parte 3",
     "picoCTF/Retos crypto/Parte 2",
     "picoCTF/Retos crypto/Parte 1",
-    "picoCTF/Retos crypto",
-    "Sin título.canvas",
-    "picoCTF/Retos Forensic/Parte 4"
+    "Sin título.canvas"
   ]
 }
