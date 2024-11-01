@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
+                "file": "picoCTF/timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-training"
+              "title": "timer"
             }
           }
         ]
@@ -164,9 +164,18 @@
   },
   "active": "e36f070a1ed6c249",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20241031232711.png",
+    "picoCTF/Safe Opener 2.md",
+    "picoCTF/timer.md",
+    "picoCTF/Retos Reversing/Parte 2/Picker IV.md",
+    "picoCTF/Retos Reversing/Parte 2/Picker III.md",
+    "picoCTF/Retos Reversing/Parte 2/Picker I.md",
+    "picoCTF/Retos Reversing/Parte 2/Picker II.md",
+    "Imagenes/Pasted image 20241031222750.png",
+    "picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
+    "picoCTF/Retos Reversing/Parte 2",
     "Imagenes/Pasted image 20241029170459.png",
     "picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
-    "picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
     "Imagenes/Pasted image 20241028111612.png",
     "picoCTF/Retos Reversing/Parte 1",
     "picoCTF/Retos Reversing/Parte 1/vault-door-5.md",
@@ -183,9 +192,7 @@
     "Imagenes/Pasted image 20241026175059.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/Roboto Sans.md",
     "Imagenes/Pasted image 20241026173059.png",
-    "Imagenes/Pasted image 20241026172814.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/login.md",
-    "Imagenes/Pasted image 20241026172432.png",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/Java Code Analysis.md",
     "picoCTF/Examen Parcial 2/Parte 2 - Web/It is my Birthday.md",
     "picoCTF/plantilla.md",
@@ -196,20 +203,13 @@
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/St3g0.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Redaction gone wrong.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Lookey here.md",
-    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Disk, disk, sleuth! II.md",
-    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/advanced-potion-making.md",
-    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Secret of the Polyglot.md",
-    "picoCTF/Examen Parcial 2/Parte 1 - Web/Power Cookie.md",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/PcapPoisoning.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic",
-    "picoCTF/Examen Parcial 2/Parte 3 - Forensic/Packets Primer.md",
     "picoCTF/Examen Parcial 2/Parte 3 - Forensic",
     "picoCTF/Examen Parcial 2/Parte 2 - Web",
     "picoCTF/Examen Parcial 2/Parte 1 - Web",
     "picoCTF/Examen Parcial 2",
     "picoCTF/Retos crypto/Parte 3",
     "picoCTF/Retos crypto/Parte 2",
-    "picoCTF/Retos crypto/Parte 1",
     "Sin título.canvas"
   ]
 }
