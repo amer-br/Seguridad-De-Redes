@@ -25,12 +25,14 @@
             "id": "0e32ed03c96f28cd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20241105213946.png"
+                "file": "picoCTF/Retos BinExp/Parte 1/flag leak.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241105213946"
+              "icon": "lucide-file",
+              "title": "flag leak"
             }
           }
         ],
@@ -175,8 +177,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e36f070a1ed6c249",
+  "active": "0e32ed03c96f28cd",
   "lastOpenFiles": [
+    "picoCTF/Retos BinExp/Parte 1/buffer overflow 0.md",
+    "picoCTF/Retos BinExp/Parte 1/basic-file-exploit.md",
+    "picoCTF/Retos BinExp/Parte 1/Stonks.md",
+    "Imagenes/Pasted image 20241111110610.png",
+    "picoCTF/Retos BinExp/Parte 1/RPS.md",
+    "picoCTF/Retos BinExp/Parte 1",
+    "picoCTF/Retos BinExp/Parte 1/flag leak.md",
+    "Imagenes/Pasted image 20241105213946.png",
+    "picoCTF/Retos BinExp",
     "picoCTF/Retos Reversing/Parte 4/asm4.md",
     "picoCTF/Retos Reversing/Parte 3/asm2.md",
     "picoCTF/Retos Reversing/Parte 4/reverse_cipher.md",
@@ -185,7 +196,6 @@
     "picoCTF/Retos Reversing/Parte 4/GDB Test Drive.md",
     "picoCTF/Retos Reversing/Parte 4/Need For Speed.md",
     "picoCTF/Retos Reversing/Parte 4",
-    "Imagenes/Pasted image 20241105213946.png",
     "picoCTF/Retos Reversing/Parte 3/asm3.md",
     "picoCTF/Retos Reversing/Parte 3/asm4.md",
     "Imagenes/Pasted image 20241105205317.png",
@@ -209,19 +219,11 @@
     "picoCTF/Retos Reversing/Parte 1/vault-door-5.md",
     "Imagenes/Pasted image 20241028113711.png",
     "picoCTF/Retos Reversing/Parte 1/vault-door-4.md",
-    "Imagenes/Pasted image 20241028112857.png",
     "picoCTF/Retos Reversing/Parte 1/vault-door-3.md",
-    "picoCTF/Examen Parcial 2/Parte 4 - Forensic/Pitter, Patter, Platters.md",
     "picoCTF/Retos Reversing",
-    "picoCTF/Examen Parcial 2/Parte 2 - Web/Who are you.md",
-    "picoCTF/Examen Parcial 2/Parte 2 - Web/Roboto Sans.md",
-    "picoCTF/Examen Parcial 2/Parte 2 - Web/login.md",
-    "picoCTF/Examen Parcial 2/Parte 2 - Web/Java Code Analysis.md",
     "picoCTF/Examen Parcial 2/Parte 4 - Forensic",
     "picoCTF/Examen Parcial 2/Parte 3 - Forensic",
     "picoCTF/Examen Parcial 2/Parte 2 - Web",
-    "picoCTF/Examen Parcial 2/Parte 1 - Web",
-    "picoCTF/Examen Parcial 2",
     "Sin título.canvas"
   ]
 }
